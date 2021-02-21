@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS5TrophyExtract", "PS5TrophyExtract\PS5TrophyExtract.csproj", "{36423C44-2757-490E-96FA-9E26D4B25BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36423C44-2757-490E-96FA-9E26D4B25BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36423C44-2757-490E-96FA-9E26D4B25BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36423C44-2757-490E-96FA-9E26D4B25BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36423C44-2757-490E-96FA-9E26D4B25BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {159C7722-0A99-41D8-B7EB-5948204277C3}
+	EndGlobalSection
+EndGlobal
