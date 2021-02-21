@@ -66,6 +66,7 @@ namespace PS5TrophyExtract
         {
             if (data != null)
                 data.Dispose();
+            TOC.Clear();
 
             FileStream fs = File.OpenRead(filename);
             data = fs;
